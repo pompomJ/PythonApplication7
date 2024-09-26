@@ -1,3 +1,5 @@
+# プログラミング学習用のグラフィックライブラリturtleの練習
+
 from turtle import *
 
 speed('fastest')
